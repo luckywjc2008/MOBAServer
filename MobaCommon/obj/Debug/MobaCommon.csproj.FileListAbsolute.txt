@@ -1,0 +1,14 @@
+G:\MOBAProject\MOBAClient\MOBAClient\Assets\Plugins\MobaCommon.dll
+G:\MOBAProject\MOBAClient\MOBAClient\Assets\Plugins\MobaCommon.pdb
+G:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.dll
+G:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.pdb
+F:\MOBAProject\MOBAClient\MOBAClient\Assets\Plugins\MobaCommon.dll
+F:\MOBAProject\MOBAClient\MOBAClient\Assets\Plugins\MobaCommon.pdb
+F:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.dll
+F:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.pdb
+G:\MOBAProject\MOBAClient\MOBAClient\Assets\Game\Plugins\MobaCommon.dll
+G:\MOBAProject\MOBAClient\MOBAClient\Assets\Game\Plugins\MobaCommon.pdb
+F:\MOBAProject\MOBAClient\MOBAClient\Assets\Game\Plugins\MobaCommon.dll
+F:\MOBAProject\MOBAClient\MOBAClient\Assets\Game\Plugins\MobaCommon.pdb
+G:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.csprojResolveAssemblyReference.cache
+F:\MOBAProject\MOBAServer\MOBAServer\MobaCommon\obj\Debug\MobaCommon.csprojResolveAssemblyReference.cache

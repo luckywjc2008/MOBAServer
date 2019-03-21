@@ -1,0 +1,12 @@
+G:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\log4net.config
+G:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.dll
+G:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.pdb
+G:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.csprojResolveAssemblyReference.cache
+G:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.dll
+G:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.pdb
+F:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\log4net.config
+F:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.dll
+F:\Photon\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.pdb
+F:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.csprojResolveAssemblyReference.cache
+F:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.dll
+F:\MOBAProject\MOBAServer\MOBAServer\MOBAServer\obj\Debug\MOBAServer.pdb
